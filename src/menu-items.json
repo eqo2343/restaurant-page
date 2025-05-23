@@ -1,0 +1,56 @@
+[
+        {
+            "id": "0",
+            "title": "Sausage Maple Biscuit",
+            "description": "Our baked in house, warm, fluffy Maple Biscuit topped with a sausage patty.",
+            "calories": "450 cals"
+        },
+        {
+            "id": "1",
+            "title": "Maple Bacon Super Biscuit",
+            "description": "Our Made from Scratch™ Biscuit topped with cherrywood-smoked bacon prepared in house, with caramelized maple, sugar, and spices then topped with American cheese and a freshly cracked fried egg. Due to the ongoing national egg shortage, eggs may be served folded rather than fried.",
+            "calories": "640 cals"
+        },
+        {
+            "id": "2",
+            "title": "Biscuit 'N' Gravy",
+            "description": "Get your goodness on with one of our warm, fluffy, freshly baked Made from Scratch™ Biscuits smothered in sausage gravy.",
+            "calories": "500 cals"
+        },
+        {
+            "id": "3",
+            "title": "Frisco Breakfast Sandwich Combo",
+            "description": "Rise n’ shine with this sandwich featuring thinly sliced ham, hearty egg, American & Swiss cheese all stacked on perfectly toasted sourdough. Hash Rounds® and your choice of beverage complete the perfect start to your day.",
+            "calories": "730-1540 cals"
+        },
+        {
+            "id": "4",
+            "title": "Maple Biscuit",
+            "description": "Baked in house, warm, fluffy biscuit loaded with maple flavor and drizzled with icing. Available all day!",
+            "calories": "310 cals"
+        },
+        {
+            "id": "5",
+            "title": "Maple Bacon Snack Pack",
+            "description": "Cherrywood-smoked bacon prepared in house with caramelized maple, sugar, and spices, loaded into a portable pack for on-the-go snacking.",
+            "calories": "300 cals"
+        },
+        {
+            "id": "6",
+            "title": "Maple Bacon Frisco Burger Combo",
+            "description": "Our 100% Angus beef patty charbroiled over an open flame, then topped with four strips of crispy maple bacon, Swiss cheese tomatoes and mayonnaise, served on sourdough. A side of fries and your choice of drink complete the combo.",
+            "calories": "1300-2020 cals"
+        },
+        {
+            "id": "7",
+            "title": "Nashville Hot Hand-Breaded Chicken Sandwich Combo",
+            "description": "Enjoy chicken with a kick when you order this sandwich. Our premium, all white meat chicken fillet is dipped in buttermilk, lightly breaded and then fried to a golden brown before being topped with Nashville Hot seasoning. We then add a layer of pickles and serve it all on a perfectly toasted bun. We complete the combo with a beverage and side of fries.",
+            "calories": "940-1660 cals"
+        },
+        {
+            "id": "8",
+            "title": "Famous Star Combo",
+            "description": "Good bites are waiting for those who order the Famous Star® Combo, featuring a Quarter Pound 100% Angus beef patty topped with melted American cheese, lettuce, tomatoes, sliced onions, dill pickles, Special Sauce, and mayonnaise - all on a perfectly toasted potato bun. Fries and a beverage complete the meal.",
+            "calories": "970-1690 cals"
+        }
+    ]
